@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Owner avatar Image-Search-Using-API</h1>
+<h1 align="center" id="title">Image-Search-Using-API</h1>
 
 <p align="center"><img src="https://socialify.git.ci/AteebX04/Image-Search-Using-API/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
